@@ -1,0 +1,16 @@
+.calculator {
+height: 400px;
+width: 250px;
+border: 2px solid darkgreen;
+margin: 20px;
+padding: 30px;
+border-radius: 20px;
+}
+
+.displayDiv {
+  height: 80px;
+  border: 1px solid;
+  padding: 20px 10px;
+  margin-bottom: 20px;
+  
+}
